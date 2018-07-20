@@ -1,0 +1,2 @@
+Input file format is named "hw1_input.txt"according to the course page's input,Please change the file named to fit the input/output standard(c++11)if needed.
+For linux/Unix environment,Makefile is available to type "make" in terminal. 
